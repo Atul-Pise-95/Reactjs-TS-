@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": {
+        "first": "Topper",
+        "last": "Skills"
+      },
+      "mobile": "7875580668",
+      "email": "topperskills@gmail.com",
+      "city": "Pune",
+      "password": "abc123",
+      "status": 0
+    },
+    {
+      "name": {
+        "first": "Atul",
+        "last": "Pise"
+      },
+      "mobile": "7709525376",
+      "email": "atulpise102@gmail.com",
+      "city": "Satara",
+      "password": "qwertyuiop",
+      "status": 1,
+      "id": 2
+    },
+    {
+      "name": {
+        "first": "Aakash",
+        "last": "Pise"
+      },
+      "mobile": "1234567890",
+      "email": "akaskpise402@gmail.com",
+      "city": "pune",
+      "password": "qwertyui",
+      "status": 1,
+      "id": 3
+    },
+    {
+      "name": {
+        "first": "xyz",
+        "last": "yzx"
+      },
+      "mobile": "123-456-566-565-667",
+      "email": "qw@ghj.com",
+      "city": "pune",
+      "password": "12345",
+      "status": 1,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "model": "AAA",
+      "brand": "aaaa",
+      "price": 111,
+      "desc": "sample product"
+    },
+    {
+      "model": "BBB",
+      "price": "222",
+      "brand": "bbb",
+      "desc": "sample 2",
+      "id": 2
+    },
+    {
+      "model": "CCC",
+      "price": "333",
+      "brand": "ccc",
+      "desc": "sample 3",
+      "id": 3
+    },
+    {
+      "model": "DDD",
+      "brand": "ddd",
+      "price": "444",
+      "desc": "sample4",
+      "id": 7
+    },
+    {
+      "model": "DDD",
+      "brand": "sd",
+      "price": "1234",
+      "desc": "sample 5",
+      "id": 8
+    }
+  ]
+}

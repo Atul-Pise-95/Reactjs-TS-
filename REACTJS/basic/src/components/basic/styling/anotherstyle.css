@@ -1,0 +1,11 @@
+.title {
+  background-color: red;
+  border: 1px solid blue;
+  font-style: italic;
+}
+.title:hover {
+  background-color: maroon;
+}
+.heading {
+  font-weight: bold;
+}

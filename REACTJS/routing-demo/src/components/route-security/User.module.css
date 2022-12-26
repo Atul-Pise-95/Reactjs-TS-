@@ -1,0 +1,9 @@
+table,
+td,
+th {
+  border: 2px solid white;
+  border-collapse: collapse;
+  padding: 12px;
+  background-color: black;
+  color: chartreuse;
+}
